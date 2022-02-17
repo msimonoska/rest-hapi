@@ -62,7 +62,7 @@
     "extend": "^3.0.2",
     "fs-extra": "^8.1.0",
     "hapi-swagger": "10.1.1",
-    "joi-objectid": "mkg20001/joi-objectid",
+    "joi-objectid": "https://github.com/metinjakupi/joi-objectid.git",
     "lodash": "~4.17.15",
     "loggin": "^3.0.2",
     "mkdirp": "0.5.1",
